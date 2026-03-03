@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+temp_gradcam_output/
+.venv/
+*.mp4
+*.jpg
+*.png
+!assets/*.png  # Cho phép giữ lại ảnh trong folder assets

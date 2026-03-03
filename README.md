@@ -22,8 +22,8 @@ A comprehensive, interactive Graphical User Interface (GUI) tool for visualizing
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ninicom/yolo-gradcam-visualizer.git
-   cd yolo-gradcam-visualizer
+   git clone https://github.com/ninicom/YOLO-Visualization-Tool.git
+   cd YOLO-Visualization-Tool
    ```
 
 2. Create a virtual environment (recommended):
@@ -55,7 +55,7 @@ python app/main.py
 ## 📂 Project Structure
 
 ```text
-YOLO-GradCAM-Visualizer/
+YOLO-Visualization-Tool/
 ├── app/                     # Core application source code
 │   ├── main.py              # Application entry point
 │   ├── ui_mainwindow.py     # GUI layout and event handling
@@ -71,4 +71,4 @@ YOLO-GradCAM-Visualizer/
 ```
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ninicom/yolo-gradcam-visualizer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ninicom/YOLO-Visualization-Tool/issues).
